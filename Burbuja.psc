@@ -14,6 +14,9 @@ Algoritmo burbuja
 	
 	Repetir
 		cambio <- Falso;
+
+		// Te te te te te teto
+		// te tokas ane teto
 		
 		para i <- 1 hasta rango - 1 con paso 1 Hacer
 			si vector[i] > vector[i + 1] Entonces
